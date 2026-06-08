@@ -1,16 +1,17 @@
 # Olá! Eu sou o Pedro Zanini 👋
 
-### Estudante de Engenharia da Computação | Desenvolvedor Mobile & IA | Sistemas Embarcados
+### Estudante de Engenharia da Computação | Desenvolvedor Mobile (Android & Flutter) | IA & Sistemas Embarcados
 
 Sou um apaixonado por tecnologia com um perfil diferenciado: **eu entendo tanto o hardware quanto o software.** Com mais de 5 anos de experiência prática em projetos elétricos e automação industrial, trago uma visão completa da engenharia para o desenvolvimento de software. Minha vivência vai desde o reparo eletrônico de placas e configuração de sistemas de proteção veicular (como módulos relé e inversores de tensão), até a construção de soluções escaláveis em código.
 
-Hoje, meu foco é unir essa base física sólida com **Desenvolvimento Mobile (Android/Kotlin)** e **Integração de Inteligência Artificial**, criando sistemas que não apenas funcionam na tela, mas que interagem com o mundo real de forma autônoma e eficiente.
+Hoje, meu foco é unir essa base física sólida com **Desenvolvimento Mobile (Nativo e Multiplataforma)** e **Integração de Inteligência Artificial**, criando sistemas que não apenas funcionam na tela, mas que interagem com o mundo real de forma autônoma e eficiente.
 
 ---
 
 ### 🚀 O que eu faço
 
-- 📱 **Desenvolvimento Mobile:** Criação de aplicativos nativos (Android) e multiplataforma (Kotlin Multiplatform - KMP), com foco em arquitetura limpa e experiência do usuário (UX), incluindo interfaces adaptadas para Android TV.
+- 📱 **Desenvolvimento Mobile:** Criação de aplicativos focados em alta performance e excelente UX. Atuo com desenvolvimento nativo em Android (Kotlin/Java) e construo soluções multiplataforma ágeis utilizando **Flutter** e **Kotlin Multiplatform (KMP)**.
+- 💻 **Engenharia de Software:** Sólida base em linguagens de alto e baixo nível voltadas para orientação a objetos, possuindo conhecimento prático em **C++, C# e Java** para diferentes necessidades de arquitetura.
 - 🤖 **Agentes de IA e Automação:** Orquestração de assistentes virtuais autônomos utilizando n8n, LLMs (Google Gemini), consultas estruturadas (PostgreSQL) e integrações via Webhooks e APIs REST.
 - 🔌 **Hardware e IoT:** Leitura de diagramas, manutenção de PCBs e integração de componentes eletrônicos a lógicas de automação (como receptores, controles e módulos de corte de tensão).
 
@@ -18,14 +19,23 @@ Hoje, meu foco é unir essa base física sólida com **Desenvolvimento Mobile (A
 
 ### 🛠️ Minha Stack de Tecnologias
 
-**Linguagens e Frameworks:**
+**Linguagens de Programação:**
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-**Bancos de Dados e Integrações:**
+**Desenvolvimento Mobile & Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/KMP-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
+
+**Bancos de Dados, Automação e IA:**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -47,8 +57,8 @@ Hoje, meu foco é unir essa base física sólida com **Desenvolvimento Mobile (A
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-R-Zanini&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-R-Zanini&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github.readme-stats.vercel.app/api?username=Pedro-R-Zanini&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github.readme-stats.vercel.app/api/top-langs/?username=Pedro-R-Zanini&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
